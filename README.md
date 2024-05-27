@@ -2,7 +2,7 @@
 
 To get the app running, 
 1. download the code
-2. cd <project folder>
+2. cd react-to-do-list
 3. npm install
 4. npm run dev
 5. The application should be running on the url obtained from the above command
